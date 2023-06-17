@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "nombre": "Diseño + Impresion de tarjetas",
+        "precio": 75,
+        "img": "impresiondetarjetas.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Diseño + Impresión de folletos",
+        "precio": 100,
+        "img": "impresionfolletos"
+    },
+    {
+        "id": 3,
+        "nombre": "Diseño + Impresión de agenda",
+        "precio": 80,
+        "img": "impresiondetarjetas.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Diseño + Estampados de polos",
+        "precio": 50,
+        "img": "estampadospolos.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Diseño + Banner",
+        "precio": 120,
+        "img": "banner.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Gigantografias",
+        "precio": 45,
+        "img": "gigantografias.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Diseño Grafico",
+        "precio": 300,
+        "img": "disenografico.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Diseño de stickets en vinil",
+        "precio": 35,
+        "img": "sticketsvinil.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Diseño + Impresión de calendario",
+        "precio": 45,
+        "img": "calendarioimpresion.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Diseño + encuadernación de cuadernos",
+        "precio": 40,
+        "img": "encuadernacioncuadernos.jpg"
+    }   
+    
+]
